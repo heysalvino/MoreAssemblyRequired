@@ -2,8 +2,6 @@
 
 **CMS 230, Fall 2017**
 
-**Due Thursday, November 30, 11:59:59 PM**
-
 ## Description
 
 This project involves translating provided C programs into ARM assembly language. The focus is on practicing writing assembly language programs with a particular emphasis on function calls. Programs will be graded by running them on the Raspberry Pi, and each program should produce an obvious correct output using `printf`. There are four problems, each worth 25 points.
