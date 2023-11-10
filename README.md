@@ -1,4 +1,4 @@
-# Some Assembly Required
+# More Assembly Required
 
 **CMS 230, Fall 2017**
 
